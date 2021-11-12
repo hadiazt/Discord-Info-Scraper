@@ -1,7 +1,7 @@
 {
   "name": "Discord-Info-Scraper",
   "version": "0.0.5",
-  "description": "get information about specfic server by bot or user account",
+  "description": "Get information about specific  server by bot or user account",
   "main": "./src/main.js",
   "author": "hadi.az",
   "license": "MIT",
