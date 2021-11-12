@@ -4,6 +4,13 @@ You can Scrape Any Server's Information Such As `MemberName` / `MemberAvatar` / 
 
 Created From [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3) & [beta.db@3.0.2](https://www.npmjs.com/package/beta.db/v/3.0.2) For Saving Scraped Data In File
 
+Use 
+
+```log
+node .
+```
+For Running Script
+
 <h3>Settings Example :</h3>
 </br>
 
