@@ -1,0 +1,21 @@
+{
+  "name": "Discord-Info-Scraper",
+  "version": "0.0.5",
+  "description": "get information about specfic server by bot or user account",
+  "main": "./src/main.js",
+  "author": "hadi.az",
+  "license": "MIT",
+  "dependencies": {
+    "beta.db": "^3.0.2",
+    "discord.js": "^12.5.3",
+    "chalk":"^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadiazt/Discord-Info-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hadiazt/Discord-Info-Scraper/issues"
+  },
+  "homepage": "https://github.com/hadiazt/Discord-Info-Scraper#readme"
+}
